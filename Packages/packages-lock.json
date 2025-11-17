@@ -283,11 +283,11 @@
       "url": "https://packages.unity.com"
     },
     "dev.dngulin.ksi": {
-      "version": "git@github.com:dngulin/ksi.git",
+      "version": "1.0.0-beta",
       "depth": 0,
-      "source": "git",
+      "source": "registry",
       "dependencies": {},
-      "hash": "ac60985919d0197e4628972ac313a15f01e578c4"
+      "url": "https://package.openupm.com"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
